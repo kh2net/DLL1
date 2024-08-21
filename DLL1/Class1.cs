@@ -11,5 +11,10 @@ namespace DLL1
         public static string ausv1;
         public static string ausv2;
         public static string ausv3;
+
+        private void erro()
+        {
+            sadfsd
+        }
     }
 }
